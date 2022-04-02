@@ -1,0 +1,131 @@
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+/*header*/
+.menu-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.33;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #2196f3;
+}
+.contact-email{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.33;
+  letter-spacing: 0.02em;  
+  color: #757575;
+}
+.contact-email:hover,
+.contact-email:focus {
+  color: #2196f3;
+}
+.contact-phone{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.33;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.contact-phone:hover,
+.contact-phone:focus {
+  color: #2196f3;
+}
+/*hero*/
+.main-title{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+.modal-btn{
+font-family: 'Roboto',sans-serif;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.87;
+background-color: #2196f3;
+color: #FFFFFF;
+}
+.modal-btn:hover,
+.contact-phone:focus{
+  background-color: #188CE8;;
+}
+/* секции*/
+.section-title{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.titl{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*Особенности*/
+.feature-list{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+}
+.feature-list .title{
+  text-transform: uppercase;
+}
+.feature-list .text{
+  font-weight: 400;
+  line-height: 1.7;
+  color: #757575;
+}
+/*Чем мы занимаемся*/
+/*Наша команда*/
+.section-subtitle{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+}
+.items-team{
+font-size: 16px;
+line-height: 1.18;
+}
+/*footer*/
+.navigation-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+.contact-footer{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
